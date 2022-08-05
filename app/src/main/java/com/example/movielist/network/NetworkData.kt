@@ -1,7 +1,5 @@
 package com.example.movielist.network
 
-import android.util.Log
-
 data class MovieResponse(
     val items: List<Movie>
 )
